@@ -36,6 +36,11 @@ h3 {
   left: 50px;
 }
 
+.cake {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
 .birthday-girl {
   position: absolute;
   top:50px;
