@@ -30,6 +30,12 @@ h3 {
   padding-top: 30px;
 }
 
+.bottom-cloud {
+  position: absolute;
+  top:50px;
+  left: 50px;
+}
+
 .birthday-girl {
   position: absolute;
   top:50px;
